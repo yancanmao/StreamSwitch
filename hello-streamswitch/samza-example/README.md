@@ -1,6 +1,6 @@
 # Samza Example
 
-This is the Nexmark query2 example in Samza.
+This is the Nexmark query2 example on Samza.
 
 ### Prerequisite
 [Apache Hadoop](http://archive.apache.org/dist/hadoop/common/hadoop-2.6.1/hadoop-2.6.1.tar.gz)
